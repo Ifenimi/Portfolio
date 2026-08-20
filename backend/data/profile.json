@@ -1,0 +1,23 @@
+{
+  "name": "Adedamola Oluwanisola",
+  "title": "Backend Developer",
+  "tagline": "I build APIs, services and systems that stay up at 3am.",
+  "location": "Lagos, Nigeria",
+  "yearsExperience": "5",
+  "summary": "I am a passionate backend developer with 5 years of experience in building scalable APIs and services. I enjoy solving complex problems related to data management, distributed systems, and performance optimization. I am looking for a challenging role where I can contribute to building robust and efficient backend solutions.",
+  "avatarUrl": "/profile.jpg",
+  "resumeUrl": "/Oluwanisola CV.docx",
+  "email": "damdanshola@gmail.com",
+  "socials": {
+    "github": "https://github.com/Ifenimi",
+    "linkedin": "https://linkedin.com/in/adedamola-oluwanisola-60337714b",
+    "twitter": "https://x.com/damdanshola",
+    "website": "https://pending.com"
+  },
+  "stats": [
+    { "label": "Years of experience", "value": "5" },
+    { "label": "Projects shipped", "value": "10+" },
+    { "label": "APIs in production", "value": "2" },
+    { "label": "Coffee / week (L)", "value": "0.5" }
+  ]
+}

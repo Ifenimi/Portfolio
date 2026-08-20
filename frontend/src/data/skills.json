@@ -1,0 +1,26 @@
+[
+  {
+    "category": "Languages",
+    "items": ["Node.js / JavaScript", "TypeScript", "Python"]
+  },
+  {
+    "category": "Frameworks",
+    "items": ["Express", "React", "(e.g. NestJS, FastAPI)"]
+  },
+  {
+    "category": "Databases",
+    "items": ["PostgreSQL", "MongoDB", "Redis"]
+  },
+  {
+    "category": "Infrastructure",
+    "items": ["Docker", "GitHub Actions (CI/CD)", "(AWS/GCP/Render/etc.)"]
+  },
+  {
+    "category": "Messaging & Async",
+    "items": ["RabbitMQ", "Kafka", "Celery / BullMQ"]
+  },
+  {
+    "category": "Testing & Quality",
+    "items": ["Jest", "Pytest", "Postman / Newman"]
+  }
+]
